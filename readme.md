@@ -9,7 +9,7 @@ To-Do List/
 # 📝 Simple To-Do List App
 ## Overview
 A simple web-based To-Do List application built using **HTML**, **CSS**, and **JavaScript**.  
-Users can add, edit, delete, and mark tasks as completed.  
+We can add, edit, delete, and mark tasks as completed.  
 All data is saved in **localStorage**, so tasks persist after page refresh.
 ---
 
@@ -35,5 +35,10 @@ All data is saved in **localStorage**, so tasks persist after page refresh.
 ---
 
 🧩 Results
+<img width="1909" height="1012" alt="image" src="https://github.com/user-attachments/assets/4239dc43-4786-41d2-b730-87591f96d934" />
+<img width="1923" height="1003" alt="image" src="https://github.com/user-attachments/assets/3647a966-e378-4b04-8846-cfc4176dcfe8" />
+
+
+
 
 
